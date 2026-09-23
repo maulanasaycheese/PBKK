@@ -1,4 +1,4 @@
-# Latihan 1 PBKK
+# Latihan 2 PBKK
 
 | Nama | NRP | Mata Kuliah | Kelas | 
 | --- | --- | --- | --- | 
