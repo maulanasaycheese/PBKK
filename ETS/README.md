@@ -18,3 +18,5 @@ Membangun aplikasi web yang membantu pengurus bank sampah mencatat nasabah, seto
 1.3 Ruang Lingkup
 
 Termasuk: manajemen nasabah, katalog jenis sampah beserta harga per kg, pencatatan setoran, pencatatan penarikan saldo, dashboard rekap, pencarian dan filter, ekspor laporan, serta login pengurus.
+
+Link PRD dan Video Demo : https://drive.google.com/drive/folders/1_6-Pihuu7txf4cSUhvozPfUU_fXKzxTw?usp=sharing
